@@ -1,7 +1,5 @@
 package com.service.address.dao;
 
-import java.util.List;
-
 import org.springframework.stereotype.Component;
 
 import com.service.address.model.Address;

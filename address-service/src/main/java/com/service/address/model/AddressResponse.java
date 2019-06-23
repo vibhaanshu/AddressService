@@ -5,7 +5,7 @@ import java.util.List;
 
 public class AddressResponse {
 	
-	List<Address> addresses = new ArrayList();
+	List<Address> addresses = new ArrayList<Address>();
 	
 	public void add(Address address) {
 		addresses.add(address);
