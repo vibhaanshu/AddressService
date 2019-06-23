@@ -1,4 +1,4 @@
-package com.service.addresss.model;
+package com.service.address.model;
 
 import java.util.ArrayList;
 import java.util.List;

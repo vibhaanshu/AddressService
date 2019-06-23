@@ -1,11 +1,11 @@
-package com.service.addresss.dao;
+package com.service.address.dao;
 
 import java.util.List;
 
 import org.springframework.stereotype.Component;
 
-import com.service.addresss.model.Address;
-import com.service.addresss.model.AddressResponse;
+import com.service.address.model.Address;
+import com.service.address.model.AddressResponse;
 
 @Component
 public class AddressDao {

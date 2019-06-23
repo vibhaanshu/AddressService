@@ -1,10 +1,10 @@
-package com.service.addresss.service;
+package com.service.address.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import com.service.addresss.dao.AddressDao;
-import com.service.addresss.model.AddressResponse;
+import com.service.address.dao.AddressDao;
+import com.service.address.model.AddressResponse;
 
 @Component
 public class AddressService {

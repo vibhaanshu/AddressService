@@ -1,4 +1,4 @@
-package com.service.addresss.model;
+package com.service.address.model;
 
 public class Address {
 

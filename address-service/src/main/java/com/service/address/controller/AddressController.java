@@ -1,11 +1,11 @@
-package com.service.addresss.controller;
+package com.service.address.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.service.addresss.model.AddressResponse;
-import com.service.addresss.service.AddressService;
+import com.service.address.model.AddressResponse;
+import com.service.address.service.AddressService;
 
 @RestController
 public class AddressController {
